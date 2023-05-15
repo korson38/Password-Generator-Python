@@ -31,7 +31,7 @@ def password(length, qtt, kod):
     plik.close()
     print("\nYour passwords have been secured in file named: 'haslo'. KEEP IT SAFE!")
 
-
+# asking user how long password should be, how many passwords and what signs it should contain
 length = int(input('set the password length  '))
 qtt = int(input('set how many passwords has to be generated  '))
 print('If u want your passwords contain: ')
