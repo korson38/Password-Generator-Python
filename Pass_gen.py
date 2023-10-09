@@ -1,6 +1,7 @@
 import random
 import time
 
+
 # Creating function which will create random passwords and save it in the file
 
 
